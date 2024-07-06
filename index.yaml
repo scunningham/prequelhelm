@@ -3,13 +3,13 @@ entries:
   prequel-collector:
   - apiVersion: v2
     appVersion: 0.7.11
-    created: "2024-07-05T14:27:53.666453515-05:00"
+    created: "2024-07-05T20:43:52.457062243-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
       version: 1.1.9
     description: A Helm chart for Kubernetes
-    digest: 13c0cf0b77a23935d3d895dcf35e5b4f919d9ee9c38d096f3fcbff0547352372
+    digest: f35e2f5254d21d5fe5de9e0dd1190e94f85909fea0b052ab3e532ee4554b0ab6
     name: prequel-collector
     type: application
     urls:
@@ -17,7 +17,7 @@ entries:
     version: 0.7.11
   - apiVersion: v2
     appVersion: 0.7.10
-    created: "2024-07-05T14:27:53.6648474-05:00"
+    created: "2024-07-05T20:43:52.455459946-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -31,7 +31,7 @@ entries:
     version: 0.7.10
   - apiVersion: v2
     appVersion: 0.7.9
-    created: "2024-07-05T14:27:53.673337573-05:00"
+    created: "2024-07-05T20:43:52.46358306-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -45,7 +45,7 @@ entries:
     version: 0.7.9
   - apiVersion: v2
     appVersion: 0.7.7
-    created: "2024-07-05T14:27:53.671848659-05:00"
+    created: "2024-07-05T20:43:52.462116358-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -59,7 +59,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: 0.7.5
-    created: "2024-07-05T14:27:53.67028263-05:00"
+    created: "2024-07-05T20:43:52.460621603-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -73,7 +73,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 0.7.4
-    created: "2024-07-05T14:27:53.668678209-05:00"
+    created: "2024-07-05T20:43:52.458571766-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -87,7 +87,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2024-07-05T14:27:53.663128685-05:00"
+    created: "2024-07-05T20:43:52.453750168-05:00"
     description: A Helm chart for Kubernetes
     digest: f0940702b44e5d84ac8fac6e647951804c53875f84179aa1e12b00e661ae7b14
     name: prequel-collector
@@ -95,4 +95,4 @@ entries:
     urls:
     - prequel-collector-0.5.2.tgz
     version: 0.5.2
-generated: "2024-07-05T14:27:53.662701864-05:00"
+generated: "2024-07-05T20:43:52.453318818-05:00"
