@@ -3,21 +3,21 @@ entries:
   prequel-collector:
   - apiVersion: v2
     appVersion: 0.7.11
-    created: "2024-07-25T19:58:40.46668389-05:00"
+    created: "2024-07-25T20:02:21.920325675-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
       version: 1.1.9
     description: A Helm chart for Kubernetes
-    digest: 7b1fe8ac0c8be3f23a3dbc26bb77b227364f0fdefc03ec515bcb886e56f259be
+    digest: 1c08f325f79e314bde4abfe93f8948f491923ce68c78e709b778ad30f0fadb93
     name: prequel-collector
     type: application
     urls:
-    - prequel-collector-0.7.23.tgz
-    version: 0.7.23
+    - prequel-collector-0.7.24.tgz
+    version: 0.7.24
   - apiVersion: v2
     appVersion: 0.7.11
-    created: "2024-07-25T19:58:40.464679265-05:00"
+    created: "2024-07-25T20:02:21.918119703-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -31,7 +31,7 @@ entries:
     version: 0.7.12
   - apiVersion: v2
     appVersion: 0.7.11
-    created: "2024-07-25T19:58:40.463156512-05:00"
+    created: "2024-07-25T20:02:21.915332352-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -45,7 +45,7 @@ entries:
     version: 0.7.11
   - apiVersion: v2
     appVersion: 0.7.10
-    created: "2024-07-25T19:58:40.461647776-05:00"
+    created: "2024-07-25T20:02:21.912904154-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -59,7 +59,7 @@ entries:
     version: 0.7.10
   - apiVersion: v2
     appVersion: 0.7.9
-    created: "2024-07-25T19:58:40.472542924-05:00"
+    created: "2024-07-25T20:02:21.930304567-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -73,7 +73,7 @@ entries:
     version: 0.7.9
   - apiVersion: v2
     appVersion: 0.7.7
-    created: "2024-07-25T19:58:40.471000585-05:00"
+    created: "2024-07-25T20:02:21.927576106-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -87,7 +87,7 @@ entries:
     version: 0.7.7
   - apiVersion: v2
     appVersion: 0.7.5
-    created: "2024-07-25T19:58:40.46960988-05:00"
+    created: "2024-07-25T20:02:21.925091252-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -101,7 +101,7 @@ entries:
     version: 0.7.5
   - apiVersion: v2
     appVersion: 0.7.4
-    created: "2024-07-25T19:58:40.468185723-05:00"
+    created: "2024-07-25T20:02:21.922717516-05:00"
     dependencies:
     - name: nats
       repository: https://nats-io.github.io/k8s/helm/charts/
@@ -115,7 +115,7 @@ entries:
     version: 0.7.4
   - apiVersion: v2
     appVersion: 0.5.2
-    created: "2024-07-25T19:58:40.460101059-05:00"
+    created: "2024-07-25T20:02:21.910400595-05:00"
     description: A Helm chart for Kubernetes
     digest: f0940702b44e5d84ac8fac6e647951804c53875f84179aa1e12b00e661ae7b14
     name: prequel-collector
@@ -123,4 +123,4 @@ entries:
     urls:
     - prequel-collector-0.5.2.tgz
     version: 0.5.2
-generated: "2024-07-25T19:58:40.459744592-05:00"
+generated: "2024-07-25T20:02:21.909850484-05:00"
